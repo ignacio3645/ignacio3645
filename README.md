@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello! I'm Ignacio Negrete Silva  
 
-<!--
-**ignacio3645/ignacio3645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Industrial Engineering** student currently pursuing a **Master's in Data Science**. I am 23 years old and passionate about **Data Science projects** and their application to real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+📌 **Interests**: Data Science, Machine Learning, Optimization, and Data Analysis.  
+🛠️ **Skills**: SQL, Python, Data Modeling.  
+📊 **Current Project**: I am currently working with **FollowUp**, developing a model to estimate foot traffic in approximately 450 shopping centers across Latin America.  
+
+---
+
+## 🎯 Focus for 2025  
+During the **first semester of 2025**, I will be focusing on learning and mastering key Data Science tools:  
+
+🔹 **Optuna** → Hyperparameter optimization.  
+🔹 **Shap** → Machine Learning model interpretability.  
+🔹 **Airflow** → Data pipeline orchestration.  
+🔹 **Docker** → Containerization and application deployment.  
+
+---
+
+## 📫 Contact  
+You can find me at:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IgnacioNegrete-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ignacio-negrete-silva-31a8262a4/)  
+📧 ignacio.negrete@ing.uchile.cl  
+
+---
+
+🚀 Always looking for new challenges and projects in Data Science!
